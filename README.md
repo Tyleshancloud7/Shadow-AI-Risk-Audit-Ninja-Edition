@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-AI%20Risk%20Governance-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Framework-Risk%20Assessment-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Shadow%20AI%20Threat%20Detection-red?style=for-the-badge">
+</p>
+
+<h1 align="center">🥷💎 Shadow AI Risk Audit — Ninja Edition</h1>
+
+<p align="center">
+Simulating enterprise AI governance and identifying hidden Shadow AI risks inside organizations.
+</p>
+
+
+
 # Shadow-AI-Risk-Audit-Ninja-Edition
 **Project:** Shadow AI Risk Audit  
 **Prepared by:** Tylesha A  
@@ -13,6 +27,51 @@ Welcome to the **Shadow AI Risk Audit** – where we hunt rogue AI usage like a 
 This project simulates a small company's AI usage, identifies hidden risks, scores severity, and proposes layered mitigations.  
 
 ---
+## 🎯 Real-World Scenario
+
+A mid-sized company recently discovered that employees were using generative AI tools such as ChatGPT and other platforms to assist with work tasks.
+
+However, security leadership became concerned about potential **data leakage, compliance violations, and unauthorized AI usage**.
+
+This project simulates how a **Security Analyst or GRC Engineer** would conduct a Shadow AI risk assessment to identify potential threats and recommend mitigation strategies.
+
+
+## 📊 Risk Scoring Methodology
+
+Risk severity is calculated using a standard risk formula:
+
+Severity = Likelihood × Impact
+
+Where:
+
+- **Likelihood (1–5)** represents probability of occurrence
+- **Impact (1–5)** represents potential business damage
+
+Severity categories:
+
+| Score | Risk Level |
+|------|-------------|
+| 16–25 | High 🔥 |
+| 9–15 | Medium ⚡ |
+| 1–8 | Low 🌙 |
+
+
+
+## 🧠 Security Framework Alignment
+
+The Shadow AI risks identified in this project align with multiple industry frameworks:
+
+| Framework | Relevant Controls |
+|----------|-------------------|
+| NIST AI RMF | AI governance and risk management |
+| NIST 800-53 | AC, AU, IA, and IR controls |
+| ISO 27001 | A.12 Monitoring and Logging |
+| OWASP Top 10 for LLMs | Data leakage and prompt injection |
+| CIS Controls | Data protection and monitoring |
+
+
+
+
 
 ## 🐉 Shadow AI Risk Register
 
@@ -65,7 +124,19 @@ This project simulates a small company's AI usage, identifies hidden risks, scor
 
 - **Corrective:**  
   - Incident response workflow for policy violations 📝  
-  - Logging, escalation, and risk review 🔍  
+  - Logging, escalation, and risk review 🔍
+    
+ 
+  ## 🛠 Skills Demonstrated
+
+This project demonstrates skills in:
+
+- AI Security Risk Analysis
+- Governance, Risk, and Compliance (GRC)
+- Threat Modeling
+- Risk Scoring and Prioritization
+- Security Policy Development
+- AI Governance Strategy
 
 ---
 
@@ -81,7 +152,22 @@ That’s why **diamond ninja vigilance** is required! 💎🥷
 - Shadow AI Risk Register (Excel/CSV or Markdown)  
 - Screenshot of flagged “shadow AI” incidents  
 - README.md explaining risk, mitigation, and business impact  
-- Optional dashboard: Severity heatmap (High 🔥 / Medium ⚡ / Low 🌙)  
+- Optional dashboard: Severity heatmap (High 🔥 / Medium ⚡ / Low 🌙)
+
+## 📌 Why Shadow AI Matters
+
+Shadow AI represents one of the fastest growing enterprise risks.
+
+Employees frequently use generative AI tools without approval, which can lead to:
+
+- Sensitive data exposure
+- Compliance violations
+- Intellectual property leakage
+- Model manipulation attacks
+
+Organizations must develop **AI governance frameworks** to detect and mitigate these risks.
+
+This project demonstrates how security teams can proactively identify and manage Shadow AI threats.
 
 ---
 
